@@ -1,10 +1,13 @@
 {
-  "name": "N5GIOiOQII9F7I08OpRtGEAGFFi6RiFWwH4T6oli6Dxbeav0Ke",
+  "name": "hiso88 ที่ไหน - เว็บใหม่ cat888 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.20",
   "description": "Hiso88 หวยไทยรัฐ ด้วย Hiso88 Cat888 หวยออนไลน์ อันดับหนึ่ง เป็นชุดตารางเลขเด่นผลงานดีที่คอหวยติดตามกันเป็นจำนวนมาก เช่นเดียวกับ หวยปฏิทินจีน Hiso88 1462 งว",
   "repository": "https://github.com/gullibles-02/indoor-12",
-  "keywords": ["HISO88","HISO88 Cat888"],
+  "keywords": [
+    "HISO88",
+    "HISO88 Cat888"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
