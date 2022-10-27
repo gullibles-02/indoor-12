@@ -1,10 +1,13 @@
 {
-  "name": "5KpFHLu007E1dS7yJ2dQSG0maL6DNJP4igsdt1KLLp99mPHwJ8",
+  "name": "ตรวจหวยปี63 แตกต่างกันอย่างไร - เว็บใหม่ huay24 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.56",
   "description": "ตรวจหวยปี63 ผลการออกรางวัล กับ ตรวจหวยปี63 Huay24 หวยออนไลน์ อันดับหนึ่ง หวยฮานอย ( Xổ Số Hà NộI ) ทั้ง 3 แบบ ฮานอย ปกติฮานอย พิเศษฮานอย Vipผลหวยฮานอย พิเศ",
   "repository": "https://github.com/gullibles-02/indoor-12",
-  "keywords": ["ตรวจหวยปี63","ตรวจหวยปี63 Huay24"],
+  "keywords": [
+    "ตรวจหวยปี63",
+    "ตรวจหวยปี63 Huay24"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
