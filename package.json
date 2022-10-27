@@ -1,10 +1,13 @@
 {
-  "name": "J12Amaa2Le86P9czz596EeWaUlqK7a4DV4JPHW4YJvwLqszI6y",
+  "name": "ราคาหวยลาว แตกต่างกันอย่างไร - เว็บใหม่ thailotto 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.33",
   "description": "ราคาหวยลาว ระบบ ตั้งแต่ ราคาหวยลาว Thailotto หวยออนไลน์ อันดับหนึ่ง Huay.Com เปิดรับแทงทุกตัวเลข ไม่มีเลขปิด ไม่ว่าจะเลขอั้นหรือเลขเต็ม ท่านสมาชิกก็สามารถแ",
   "repository": "https://github.com/gullibles-02/indoor-12",
-  "keywords": ["ราคาหวยลาว","ราคาหวยลาว Thailotto"],
+  "keywords": [
+    "ราคาหวยลาว",
+    "ราคาหวยลาว Thailotto"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
