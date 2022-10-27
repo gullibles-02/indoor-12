@@ -1,18 +1,10 @@
 {
-  "name": "จับยี่กี 5 นาที เล่นที่ไหน - เว็บใหม่ ruay 2023 ล่าสุด",
+  "name": "klT1XWMdAlA8s2kxJmuWIR5dzO7khrdX6pUq2JNiFcLs7DdQyP",
   "theme": "syntax",
   "version": "1.0.17",
   "description": "จับยี่กี 5 นาที เบิ้ล สู่ จับยี่กี 5 นาที Ruay หวยออนไลน์ อันดับหนึ่ง 1112-2113-3117-7151-1552-2553-3557-7571-1772-2773-37เบิ้ล 77ขอแนะนำให้คอหวยคัดเลือกเอ",
   "repository": "https://github.com/gullibles-02/indoor-12",
-  "keywords": [
-    "จับยี่กี 5 นาที",
-    "จับยี่กี",
-    "5",
-    "นาที",
-    "จับยี่กี Ruay",
-    "5 Ruay",
-    "นาที Ruay"
-  ],
+  "keywords": ["จับยี่กี 5 นาที","จับยี่กี","5","นาที","จับยี่กี Ruay","5 Ruay","นาที Ruay"],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
