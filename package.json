@@ -1,13 +1,10 @@
 {
-  "name": "เล่นยี่กี่เป็นอาชีพ มีคำตอบ - เว็บใหม่ jetsadabet 2023 ล่าสุด",
+  "name": "ke2BOZG3Ap02nEfSLN1olhOHILQwKpUIRCjjOOi2LKeZMcIdkv",
   "theme": "syntax",
   "version": "1.0.19",
   "description": "เล่นยี่กี่เป็นอาชีพ ผลการออกรางวัล ถึง เล่นยี่กี่เป็นอาชีพ Jetsadabet เจษฎาเบท หวยออนไลน์ มีหวยทุกชนิด เล่นยี่กี่เป็นอาชีพ หวยฮานอย ( Xổ Số Hà NộI ) ทั้ง 3",
   "repository": "https://github.com/gullibles-02/indoor-12",
-  "keywords": [
-    "เล่นยี่กี่เป็นอาชีพ",
-    "เล่นยี่กี่เป็นอาชีพ Jetsadabet"
-  ],
+  "keywords": ["เล่นยี่กี่เป็นอาชีพ","เล่นยี่กี่เป็นอาชีพ Jetsadabet"],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
