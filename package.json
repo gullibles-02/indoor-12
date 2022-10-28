@@ -1,16 +1,10 @@
 {
-  "name": "ถูกหวย ภาษาอังกฤษ คืออะไร - เว็บใหม่ thailotto 2023 ล่าสุด",
+  "name": "vE4dorssmnEUgEcZnYQx7vLlWcWwQiXvkUUnx7ysl89b06XzkN",
   "theme": "syntax",
   "version": "1.0.81",
   "description": "ถูกหวย ภาษาอังกฤษ แนวทางเลข ต่อ ถูกหวย ภาษาอังกฤษ Thailotto หวยออนไลน์ อันดับหนึ่ง 3 ตัวบน ได้แก่696-669-966929-992-299แนวทางเลข 2 ถูกหวย ภาษาอังกฤษ ตัวล่า",
   "repository": "https://github.com/gullibles-02/indoor-12",
-  "keywords": [
-    "ถูกหวย ภาษาอังกฤษ",
-    "ถูกหวย",
-    "ภาษาอังกฤษ",
-    "ถูกหวย Thailotto",
-    "ภาษาอังกฤษ Thailotto"
-  ],
+  "keywords": ["ถูกหวย ภาษาอังกฤษ","ถูกหวย","ภาษาอังกฤษ","ถูกหวย Thailotto","ภาษาอังกฤษ Thailotto"],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
