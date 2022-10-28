@@ -1,10 +1,16 @@
 {
-  "name": "9fGQxDisEUC42Yvf1jkgJ8k9d4XEX7V7hAXrdH2iJSyVlzIKDb",
+  "name": "แนวคิด หวยฮานอย สมัครยังไง - เว็บใหม่ thailotto 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.61",
   "description": "แนวคิด หวยฮานอย เลขเด็ดในงวดวันอาทิตย์ที่ ครั้น แนวคิด หวยฮานอย Thailotto ไทยล็อตโต้ หวยออนไลน์ มีหวยทุกชนิด 17 มกราคม 2566 เว็บไซต์หวยไทยของเราขอนำเสนอชุด",
   "repository": "https://github.com/gullibles-02/indoor-12",
-  "keywords": ["แนวคิด หวยฮานอย","แนวคิด","หวยฮานอย","แนวคิด Thailotto","หวยฮานอย Thailotto"],
+  "keywords": [
+    "แนวคิด หวยฮานอย",
+    "แนวคิด",
+    "หวยฮานอย",
+    "แนวคิด Thailotto",
+    "หวยฮานอย Thailotto"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
